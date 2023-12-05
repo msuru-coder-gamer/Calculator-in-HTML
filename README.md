@@ -16,4 +16,4 @@ HOWEVER, the = button executes the equals() function respectively, just like how
 
 Every function is stored in the calcultor-scripting.js file, along with some variables so it can actually work.
 
-And yea, thats about it. if you want to see the code and mess around with it too, then download thisas a .zip
+And yea, thats about it. if you want to see the code and mess around with it too, then download this as a .zip
