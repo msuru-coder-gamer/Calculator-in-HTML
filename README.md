@@ -4,7 +4,7 @@ Wanna see it in action? Then go here: https://msuru-coder-gamer.github.io/Calcul
 
 WARNING: IF YOU ARE NOT A NERD, DO NOT READ THE REST OF THIS DOCUMENT. Seriously, just don't.
 
-How it works:
+# How it works:
 
 In the index.html, every button executes a JS function when clicked. There are 4 functions, those being num(), sym(), equals() and decimal(). 
 
@@ -14,7 +14,6 @@ The symbol buttons execute the sym() funtion in this format: button + does sym("
 
 HOWEVER, the = button executes the equals() function respectively, just like how the . button executes the decimal() function.
 
-# How they work:
 Every function is stored in the calcultor-scripting.js file, along with some variables so it can actually work.
 
 And yea, thats about it. if you want to see the code and mess around with it too, then download thisas a .zip
