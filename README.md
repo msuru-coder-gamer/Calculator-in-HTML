@@ -1,6 +1,6 @@
 # Calculator in HTML
 This code is for a simple HTML calculator.
-Wanna see it in action? Then go here: https://msuru.000webhostapp.com/calculator/index.html (idk how to deploy websites with github)
+Wanna see it in action? Then go here: https://msuru.000webhostapp.com/calculator/index.html
 
 WARNING: IF YOU ARE NOT A NERD, DO NOT READ THE REST OF THIS DOCUMENT. Seriously, just don't.
 
